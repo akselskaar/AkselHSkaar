@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkselHSkaar
-- 🌱 I’m currently studying Interaction Design at Høyskolen Kristiania, Oslo
+- :books: I’m currently studying Interaction Design at Høyskolen Kristiania, Oslo
 - ✨ My interests are UX / UI design and frontend-development
 - 📫 akselhskaar@hotmail.no
 
