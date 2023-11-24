@@ -1,6 +1,6 @@
 👋 Hi, I’m @AkselHSkaar\
-:books: I’m currently studying Interaction Design at Høyskolen Kristiania, Oslo\
-✨ My interests are UX / UI design and frontend-development\
+✨ Im a UX / UI designer and frontend-developer\
+💼 I’m currently working at Aboveit, Oslo\
 📫 akselhskaar@hotmail.no
 
 <!---
