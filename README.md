@@ -1,6 +1,4 @@
 👋 Hi, I’m @AkselHSkaar\
-✨ Im a UX / UI designer and frontend-developer\
-💼 I’m currently working at Aboveit, Oslo\
 📫 akselhskaar@hotmail.no
 
 <!---
