@@ -1,5 +1,3 @@
-👋 Hi, I’m @AkselHSkaar\
-📫 akselhskaar@hotmail.no
 
 <!---
 AkselHSkaar/AkselHSkaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
